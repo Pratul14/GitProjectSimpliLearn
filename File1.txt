@@ -1,2 +1,2 @@
- github directly..This is my first file of the project.
+ change thru github directly..This is my first file of the project.
 
