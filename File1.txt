@@ -1,2 +1,2 @@
-change done by feautre1 branch.This is my first file of the project
+change done by github directly.This is my first file of the project.
 
